@@ -1,0 +1,7 @@
+[package]
+name        = "executable-path"
+version     = "1.0.0"
+authors     = ["Casey Rodarmor <casey@rodarmor.com>"]
+description = "Get the path of a binary target's executable"
+license     = "CC0-1.0"
+homepage    = "https://github.com/casey/rust-executable-path"
