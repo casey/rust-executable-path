@@ -1,5 +1,6 @@
 use std::path::PathBuf;
 
+/// Takes the name of a binary target and returns the path to the target's executable.
 pub fn executable_path(name: &str) -> PathBuf {
   let mut path = std::env::current_exe().unwrap();
   path.pop();
