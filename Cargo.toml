@@ -1,6 +1,6 @@
 [package]
 name = "executable-path"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2015"
 authors = ["Casey Rodarmor <casey@rodarmor.com>"]
 description = "Get the path of a binary target's executable"
